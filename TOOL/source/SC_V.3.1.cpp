@@ -1,5 +1,5 @@
 #include <windows.h>
-//System Control (SC) v3.1
+//System Control (SC) v3.1.0
 #include <stdio.h>
 #include <tlhelp32.h>
 #include <shlobj.h>
