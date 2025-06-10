@@ -1,7 +1,7 @@
 System Control (SC) v3.1 - Advanced Control Panel ⚙️
 System Control (SC) v3.1 is a powerful and advanced tool for system management and customization on the Windows operating system. Developed in C++, this tool utilizes the Windows API to provide a wide range of functionalities for controlling various aspects of the system, from managing core components like Task Manager and Registry Editor to advanced maintenance and security tasks.
 
-⚠️ WARNING: This tool is extremely powerful and may disable your system if not used carefully. It is highly recommended to create system snapshots before performing any dangerous operations.
+⚠️ WARNING: This tool contains commands that may crash your system if not used carefully. It is highly recommended to create system snapshots before performing any dangerous operations.
 
 Key Features ✨
 System Control (SC) v3.1 offers a broad spectrum of features, categorized into main sections:
